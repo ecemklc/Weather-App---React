@@ -1,5 +1,8 @@
 # Weather App
 
+![WheatherApp](https://github.com/user-attachments/assets/eef62881-d6c0-4e0a-88e2-da93c47623ef)
+
+
 This Weather App provides current and forecasted weather information for a given city. The application fetches weather data from an external API and displays it using React components.
 
 ## Features
